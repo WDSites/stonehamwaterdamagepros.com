@@ -255,3 +255,4 @@ footer p{color:var(--muted);margin-top:10px;max-width:340px}
   .mapframe{height:280px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.toplink{text-decoration:none}
